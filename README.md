@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Kenedy Campos! 👋
 
-<!--
-**kcmpox/kcmpox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** (EAD - Unicesumar). Estou na fase de transformar lógica de programação em soluções reais!
 
-Here are some ideas to get you started:
+### 🛠 No que estou trabalhando agora:
+- 📖 Aprofundando em **Python** e automação.
+- 🌐 Criando páginas modernas com **HTML & CSS**.
+- 📂 Organizando este perfil para ser meu portfólio de estágio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Curiosidades:
+- 🎮 No tempo livre, você me encontra no **Minecraft** ou no **Wild Rift**.
+- 💻 Em busca de um PC que rode **Valorant** sem chorar (aceito dicas de setup!).
+- ☕ Movido a café e persistência.
+
+---
+
+### 📬 Vamos conversar?
+[Meu Site](http://wwww.kenedycampos.com.br)
